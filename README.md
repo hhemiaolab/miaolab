@@ -1,10 +1,10 @@
 # 🎉 MIMIAO 🎉
 
-Multimodal Imaging and Multiscale Integration of BrAin cOnnectome (MIMIAO) Public Code Repository
+Multimodal Imaging and Multiscale Integration of BrAin cOnnectome (MIAO) Public Code Repository
 
 ## Introduction
 
-Welcome to the "Multimodal Imaging and Multiscale Integration of BrAin cOnnectome (MIMIAO)" public code repository! This repository serves as a hub for sharing the coding contributions and developments produced by our lab, aiming to provide a resource for learning, reference, and collaboration.
+Welcome to the "Multimodal Imaging and Multiscale Integration of BrAin cOnnectome (MIAO)" public code repository! This repository serves as a hub for sharing the coding contributions and developments produced by our lab, aiming to provide a resource for learning, reference, and collaboration.
 
 ## Our Mission
 
