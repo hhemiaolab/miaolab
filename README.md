@@ -1,4 +1,4 @@
-# 🎉 MIMIAO 🎉
+# 🎉 MIAO 🎉
 
 Multimodal Imaging and Multiscale Integration of BrAin cOnnectome (MIAO) Public Code Repository
 
